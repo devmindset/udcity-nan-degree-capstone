@@ -1,1 +1,1 @@
-# udcity-nan-degree-capstone
+# udcity-nanodegree-capstone
